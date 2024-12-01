@@ -22,8 +22,10 @@ title: Dusty WZNT
 email: hyejinkim1003.dev@gmail.com
 description: I hope you guys have a great day!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: /REPOSITORY-NAME/ # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  WZNT
+domain : dusty-wznt.github.io
+url : https://dusty-wznt.github.io/
 
 # Build settings
 theme: minima
